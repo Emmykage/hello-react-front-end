@@ -12,7 +12,7 @@ const Greeting = () => {
   return (
     <>
       <div>Greeting</div>
-      {/* <p>{greeting}</p> */}
+      <p>{greeting}</p>
     </>
 
   );
