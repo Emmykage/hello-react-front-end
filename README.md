@@ -10,6 +10,7 @@
 
 [live demo]()
 
+
 ## Link to react front end
 https://github.com/Emmykage/hello-rails-back-end/tree/dev
 
@@ -46,6 +47,7 @@ Once inside the project directory, you should install all project dependencies:
 ```
 npm install bundler
 ```
+
 
 - Install project dependencies
 
