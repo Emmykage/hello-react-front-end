@@ -44,6 +44,7 @@ Once inside the project directory, you should install all project dependencies:
 npm install bundler
 ```
 
+
 - Install project dependencies
 
 ```

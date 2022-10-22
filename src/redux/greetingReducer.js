@@ -10,7 +10,7 @@ export default function greetingReducer(state = [], action = {}) {
 }
 
 const getGreeting = () => async (dispatch) => {
-  const response = await fetch('/api/v1/greetings');
+  const response = await fetch('http://localhost:3000/api/v1/greetings');
   const greetings = await response.text();
   dispatch({
     type: GET_GREETINGS,
